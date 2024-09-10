@@ -45,7 +45,7 @@ public class CourseService {
     /**
      * 수업 목록 조회 서비스
      */
-    @TrackTime
+//    @TrackTime
     public CourseListResponseDto getCourseList() {
 
         // 측정시작
